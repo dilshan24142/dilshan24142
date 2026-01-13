@@ -3,14 +3,14 @@ Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height
 </h1>
 
 <h3 align="center">
-Programmer | Android Developer | Java Learner 🚀
+Programmer | Fullstack Developer | Java & React Learner 🚀
 </h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Android Development**
+- 🔭 Currently working on **Fullstack Development**
 - 🌱 Currently learning **Java**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Programming & Tech**
