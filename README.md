@@ -3,24 +3,24 @@ Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height
 </h1>
 
 <h3 align="center">
-Full Stack Developer | Java & React Learner 🚀
+Full Stack Developer | Java • Spring Boot • React 🚀
 </h3>
 
 <p align="center">
-Building real-world applications and learning every day.
+I build scalable web applications and continuously learn modern technologies.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Working on **Full Stack Development (Java + React)**
-- 🌱 Learning **Java, Spring Boot & React**
-- 👯 Open to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java, React, Web Development**
+- 🔭 Working on **Full Stack Development**
+- 🌱 Learning **Java, Spring Boot, React & System Design**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Java, Spring Boot, React, REST APIs**
 - 📫 Email: **dilshans626@gmail.com**
 - 📞 Phone: **+94 762 495 646**
-- ⚡ Fun fact: **Clean code makes me happy 😄**
+- ⚡ Fun fact: **I enjoy refactoring code more than writing it 😄**
 
 ---
 
@@ -44,20 +44,31 @@ Building real-world applications and learning every day.
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks**
-
+### 🔹 Backend
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java)
-![Spring](https://img.shields.io/badge/Spring-05122A?style=flat&logo=spring)
-![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-05122A?style=flat&logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-05122A?style=flat&logo=springsecurity)
+![Hibernate](https://img.shields.io/badge/Hibernate-05122A?style=flat&logo=hibernate)
+![REST API](https://img.shields.io/badge/REST_API-05122A?style=flat)
+
+### 🔹 Frontend
 ![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)
-
-**Tools & Others**
-
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap)
+
+### 🔹 Database
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)
+
+### 🔹 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-05122A?style=flat&logo=intellijidea)
+![VS Code](https://img.shields.io/badge/VS_Code-05122A?style=flat&logo=visualstudiocode)
 
 ---
 
@@ -66,22 +77,22 @@ Building real-world applications and learning every day.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (FIXED & STABLE)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dilshan24142&show_icons=true&theme=github_dark&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=dilshan24142&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshan24142&layout=compact&theme=github_dark&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshan24142&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=dilshan24142&theme=github-dark" />
+<img src="https://streak-stats.demolab.com?user=dilshan24142&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 GitHub Activity
+## 🚀 GitHub Activity Graph (STABLE)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dilshan24142&theme=github-dark&hide_border=true)
