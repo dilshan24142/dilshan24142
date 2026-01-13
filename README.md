@@ -78,6 +78,6 @@ I build scalable web applications and continuously learn modern technologies.
 ---
 
 
-## 🚀 GitHub Activity Graph (STABLE)
+## 🚀 GitHub Activity Graph 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dilshan24142&theme=github-dark&hide_border=true)
