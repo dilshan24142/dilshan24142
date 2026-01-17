@@ -15,7 +15,7 @@ I build scalable web applications and continuously learn modern technologies.
 
 ## 👨‍💻 About Me
 
-- 🔭 Working on **Full Stack Development **
+- 🔭 Working on **Full Stack Development**
 - 🌱 Learning **Java, Spring Boot, React & System Design**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Java, Spring Boot, React, REST APIs**
