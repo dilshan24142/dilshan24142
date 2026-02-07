@@ -25,7 +25,7 @@ I build scalable web applications and continuously learn modern technologies.
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Connect with Me ...
 
 <p align="left">
 <a href="mailto:dilshans626@gmail.com">
