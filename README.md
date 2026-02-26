@@ -87,6 +87,7 @@
 <h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -94,12 +95,13 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
-<h3 align="center">Database</h3>
+<h3 align="center">Database & Cloud</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 <h3 align="center">DevOps & Tools</h3>
@@ -107,6 +109,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -167,3 +171,99 @@ JavaScript   5 hrs 45 mins   █████▒░░░░░░░░░░░
 HTML/CSS     3 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░   13.9%
 Spring Boot  2 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░   9.4%
 Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░   0.6%
+```
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p>
+
+## 💼 Featured Projects
+
+### 🎯 Profile Matching System
+A comprehensive full-stack application for matching user profiles with advanced filtering and recommendation system.
+
+**Tech Stack**: Java, Spring Boot, React, PostgreSQL, AWS S3
+
+**Features**:
+- Advanced profile creation with image uploads
+- Real-time matching algorithm
+- User authentication & authorization
+- RESTful API design
+- Responsive UI
+
+**Repository**: [bloomsoft-profile-system](https://github.com/dilshan24142/bloomsoft-profile-system)
+
+---
+
+### 🔐 Secure Authentication System
+Enterprise-grade authentication system with JWT, OAuth2, and role-based access control.
+
+**Tech Stack**: Spring Boot, Spring Security, MySQL, Redis
+
+**Features**:
+- JWT token management
+- Role-based access control (RBAC)
+- Two-factor authentication
+- Session management
+- Audit logging
+
+---
+
+### 📱 React Dashboard
+Interactive dashboard with real-time analytics and data visualization.
+
+**Tech Stack**: React, Redux, Chart.js, Bootstrap
+
+**Features**:
+- Real-time data updates
+- Multiple chart types
+- Responsive design
+- Dark/Light theme support
+- Export functionality
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p>
+
+## 🎯 Current Goals
+
+- 🚀 Master **Microservices Architecture**
+- 📚 Deep dive into **System Design** patterns
+- 🔒 Learn **Kubernetes** for container orchestration
+- 📊 Build more **Full Stack Applications**
+- 🤝 Contribute to **Open Source** projects
+- 🏆 Reach **1000+ GitHub followers**
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p>
+
+## 🤝 Let's Connect!
+
+I'm always interested in:
+- 💼 Job opportunities and freelance projects
+- 🔗 Collaborating on open-source projects
+- 💡 Discussing new technologies and ideas
+- 🎓 Mentoring and helping others learn
+- 📧 Networking with fellow developers
+
+Feel free to reach out to me through any of the contact methods above!
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p>
+
+## 📄 License
+
+This profile README is open source and available under the [MIT License](LICENSE).
+
+---
+
+<p align="center">
+  <i>⭐️ If you found my profile interesting, please consider giving it a star! It motivates me to share more!</i>
+</p>
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/dilshan24142">Dilshan</a>
+</p>
