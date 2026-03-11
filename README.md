@@ -132,7 +132,7 @@
 </p>
 
 <p align="center">
-  <i>The snake eats my contributions every 12 hours! 🐍</i>
+ 
 </p>
 
 <p align="center">
