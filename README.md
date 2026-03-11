@@ -183,7 +183,3 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
 <p align="center">
   <i>⭐️ If you found my profile interesting, please consider giving it a star! It motivates me to share more!</i>
 </p>
-
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/dilshan24142">Dilshan</a>
-</p>
