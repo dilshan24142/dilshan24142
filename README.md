@@ -156,7 +156,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dilshan24142&theme=algolia&no-frame=true&no-bg=false&margin-w=4" />
 </p>
 
-## 📈 Contribution Graph ..
+## 📈 Contribution Graph 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshan24142&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="95%"/>
