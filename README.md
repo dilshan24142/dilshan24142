@@ -30,7 +30,7 @@
 - 💬 Ask me about **Java, Spring Boot, React, REST APIs**
 - 📫 Email: **dilshans626@gmail.com**
 - 📞 Phone: **+94 762 495 646**
-- ⚡ Fun fact: **I enjoy refactoring code more than writing it 😄**
+- ⚡ Fun fact: **I  enjoy refactoring code more than writing it 😄**
 
 </td>
 <td width="40%">
