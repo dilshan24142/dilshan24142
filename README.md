@@ -72,6 +72,20 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="http://dilshan.66ghz.com/" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio_Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <br/>
+  <i>Check out my personal website to see my projects and blog!</i>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Tech Stack</b>
 
 <h3 align="center">Backend</h3>
@@ -171,15 +185,3 @@ JavaScript   5 hrs 45 mins   █████▒░░░░░░░░░░░
 HTML/CSS     3 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░   13.9%
 Spring Boot  2 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░   9.4%
 Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░   0.6%
-```
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</p>
-
-
-
-<p align="center">
-  <i>⭐️ If you found my profile interesting, please consider giving it a star! It motivates me to share more!</i>
-</p>
