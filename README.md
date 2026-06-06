@@ -25,7 +25,7 @@
 <td width="60%">
 
 - 🔭 Currently working on **Full Stack Development**
-- 🌱 Learning **Java, Spring Boot, React & System Design**
+- 🌱 Learning **Java,  Spring Boot, React & System Design**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Java, Spring Boot, React, REST APIs**
 - 📫 Email: **dilshans626@gmail.com**
