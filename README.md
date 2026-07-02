@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Full Stack Developer | Java • Spring Boot • React ..🚀
+  Junior Software Engineer | Full Stack Developer | Java • Spring Boot • React ..🚀
 </h3>
 
 <p align="center">
@@ -24,10 +24,11 @@
 <tr>
 <td width="60%">
 
-- 🔭 Currently working on **Full Stack Development**
-- 🌱 Learning **Java,  Spring Boot, React & System Design**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java, Spring Boot, React, REST APIs**
+- 💼 **Junior Software Engineer** building scalable enterprise applications
+- 🔭 Currently working on **Full Stack Development & System Design**
+- 🌱 Deepening knowledge in **Microservices architectures, Spring Security, and React Performance**
+- 👯 Looking to collaborate on **Open Source Projects & Modern Web Tooling**
+- 💬 Ask me about **Java, Spring Boot, React, REST APIs, and Database Optimization**
 - 📫 Email: **dilshans626@gmail.com**
 - 📞 Phone: **+94 762 495 646**
 - ⚡ Fun fact: **I enjoy refactoring code more than writing it 😄**
@@ -146,7 +147,7 @@
 </p>
 
 <p align="center">
- 
+  
 </p>
 
 <p align="center">
@@ -183,5 +184,5 @@
 Java         12 hrs 30 mins  ████████████▓░░░░░░░░░░   52.3%
 JavaScript   5 hrs 45 mins   █████▒░░░░░░░░░░░░░░░░░   23.8%
 HTML/CSS     3 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░   13.9%
-Spring Boot  2 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░   9.4%
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░   0.6%
+Spring Boot  2 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░    9.4%
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░    0.6%
