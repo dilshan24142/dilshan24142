@@ -24,7 +24,7 @@
 <tr>
 <td width="60%">
 
-- 💼 **Junior Software Engineer** building scalable enterprise applications
+- 💼 **Junior Software Engineer** building scalable enterprise applications.
 - 🔭 Currently working on **Full Stack Development & System Design**
 - 🌱 Deepening knowledge in **Microservices architectures, Spring Security, and React Performance**
 - 👯 Looking to collaborate on **Open Source Projects & Modern Web Tooling**
