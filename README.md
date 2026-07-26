@@ -27,8 +27,9 @@
 - 💼 **Junior Software Engineer** building scalable enterprise applications.
 - 🔭 Currently working on **Full Stack Development & System Design**
 - 🌱 Deepening knowledge in **Microservices architectures, Spring Security, and React Performance**
+- 🎨 Also working on **UI/UX** — translating Figma designs into pixel-accurate, responsive front-ends
 - 👯 Looking to collaborate on **Open Source Projects & Modern Web Tooling**
-- 💬 Ask me about **Java, Spring Boot, React, REST APIs, and Database Optimization**
+- 💬 Ask me about **Java, Spring Boot, React, REST APIs, Database Optimization, and UI/UX implementation**
 - 📫 Email: **dilshans626@gmail.com**
 - 📞 Phone: **+94 762 495 646**
 - ⚡ Fun fact: **I enjoy refactoring code more than writing it 😄**
@@ -130,6 +131,16 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<h3 align="center">UI/UX & Design</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive_Design-38B2AC?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS_Grid_%2F_Flexbox-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design_Systems-FF7262?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Accessibility-663399?style=for-the-badge&logo=accessibility&logoColor=white" />
 </p>
 
 <p align="center">
