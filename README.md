@@ -25,7 +25,7 @@
 
 <br />
 
-## About Me .
+## About Me ...
 
 - 💼 **Junior Software Engineer** building scalable enterprise applications
 - 🔭 Currently working on **Full Stack Development & System Design**
