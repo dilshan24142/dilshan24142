@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&height=60&lines=Hi%2C+I'm+Dilshan+%F0%9F%91%8B;Junior+Software+Engineer;Full+Stack+%2B+UI%2FUX" alt="Typing SVG" />
 
 <p>
-  <b>Junior Software Engineer @ NovaNeura.AI</b> · Java · Spring Boot · React · UI/UX 
+  <b>Junior Software Engineer @ NovaNeura.AI</b> · Java · Spring Boot · React · UI/UX /
 </p>
 
 <p>
