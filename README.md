@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="Wave.gif" width="100" />
+
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&height=60&lines=Hi%2C+I'm+Dilshan+%F0%9F%91%8B;Junior+Software+Engineer;Full+Stack+%2B+UI%2FUX" alt="Typing SVG" />
 
 <p>
@@ -25,7 +27,7 @@
 
 <br />
 
-## About Me ...
+## About Me 👋
 
 - 💼 **Junior Software Engineer** building scalable enterprise applications
 - 🔭 Currently working on **Full Stack Development & System Design**
@@ -69,7 +71,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Responsive_Design-38B2AC?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Design_Systems-FF7262?style=flat-square&logo=figma&logoColor=white" />
 
