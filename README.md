@@ -1,19 +1,14 @@
 <div align="center">
 
-<img src="Wave.gif" width="100" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=180&section=header&text=Dilshan%20Daluwaththage&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Engineer%20%C2%B7%20Full%20Stack%20%2B%20UI%2FUX&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&height=60&lines=Hi%2C+I'm+Dilshan+%F0%9F%91%8B;Junior+Software+Engineer;Full+Stack+%2B+UI%2FUX" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&height=40&lines=Building+scalable+enterprise+apps;Java+%2B+Spring+Boot+%2B+React;Turning+Figma+into+pixel-perfect+UI" alt="Typing SVG" />
 
-<p>
-  <b>Junior Software Engineer @ NovaNeura.AI</b> · Java · Spring Boot · React · UI/UX  
-</p>
+<br />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=dilshan24142&label=Profile%20Views&color=2F80ED&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/dilshan24142?label=Followers&style=flat-square" alt="followers" />
-  <img src="https://img.shields.io/github/stars/dilshan24142?label=Stars&style=flat-square" alt="stars" />
-  <img src="https://img.shields.io/github/last-commit/dilshan24142/dilshan24142?label=Last%20Updated&style=flat-square" alt="last updated" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=dilshan24142&label=Profile%20Views&color=2F80ED&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/dilshan24142?label=Followers&style=for-the-badge&color=2F80ED" alt="followers" />
+<img src="https://img.shields.io/github/stars/dilshan24142?label=Stars&style=for-the-badge&color=2F80ED" alt="stars" />
 
 <p>
   <a href="mailto:dilshans626@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -25,78 +20,61 @@
 
 </div>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:56CCF2&height=3&width=100%" width="100%" />
 
-## About Me 👋
+## 👋 About Me
 
-- 💼 **Junior Software Engineer** building scalable enterprise applications
+<table width="100%">
+<tr>
+<td valign="top" width="60%">
+
+- 💼 **Junior Software Engineer** @ NovaNeura.AI — building scalable enterprise applications
 - 🔭 Currently working on **Full Stack Development & System Design**
 - 🎨 Also focused on **UI/UX** — turning Figma designs into pixel-accurate, responsive front-ends
 - 🌱 Deepening my knowledge of **Microservices, Spring Security, and React performance**
 - 👯 Open to collaborating on **open source projects & modern web tooling**
 - 💬 Ask me about **Java, Spring Boot, React, REST APIs, database optimization, or UI/UX implementation**
 
-<br />
-
-## Tech Stack
-
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-
-**Backend**
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Microservices-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
-
-**Database & Cloud**
-
-<img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="40%" align="center">
 
-**Frontend & UI/UX**
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Responsive_Design-38B2AC?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Design_Systems-FF7262?style=flat-square&logo=figma&logoColor=white" />
-
-**DevOps & Tools**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dilshan24142&show_icons=true&theme=algolia&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
 
 </td>
 </tr>
 </table>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:56CCF2&height=3&width=100%" width="100%" />
 
-## GitHub Analytics
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dilshan24142&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dilshan24142&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+**Backend**
+<br />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postman" />
 
+**Database & Cloud**
+<br />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws" />
+
+**Frontend & UI/UX**
+<br />
+<img src="https://skillicons.dev/icons?i=react,ts,js,redux,figma,tailwind" />
+
+**DevOps & Tools**
+<br />
+<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,linux,vscode" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:56CCF2&height=3&width=100%" width="100%" />
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dilshan24142&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshan24142&theme=algolia&hide_border=true" alt="streak stats" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=dilshan24142&theme=algolia&no-frame=true&column=7&margin-w=4" />
@@ -105,9 +83,9 @@
 
 </div>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:56CCF2&height=3&width=100%" width="100%" />
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -117,9 +95,9 @@
   </picture>
 </p>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:56CCF2&height=3&width=100%" width="100%" />
 
-## Weekly Development Breakdown
+## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 ```text
@@ -131,10 +109,10 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<br />
-
 <div align="center">
 
 *Last refreshed: <!--LAST_UPDATED-->2026-08-15<!--END_LAST_UPDATED-->*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=100&section=footer" width="100%" />
 
 </div>
