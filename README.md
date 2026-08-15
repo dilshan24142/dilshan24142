@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=180&section=header&text=Dilshan%20Daluwaththage&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Engineer%20%C2%B7%20Full%20Stack%20%2B%20UI%2FUX&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=180&section=header&text=Dilshan%20Daluwaththage&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Engineer%20%C2%B7%20Full%20Stack%20%2B%20UI%2FUX&descAlignY=58&descSize=18" width="100%" alt="Profile banner: Dilshan Daluwaththage, Junior Software Engineer, Full Stack + UI/UX" />
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&height=40&lines=Building+scalable+enterprise+apps;Java+%2B+Spring+Boot+%2B+React;Turning+Figma+into+pixel-perfect+UI" alt="Typing SVG" />
 
