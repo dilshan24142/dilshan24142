@@ -21,8 +21,8 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "dilshan24142"
+          git config user.email "dilshans626@gmail.com"
           git add README.md
           git diff --cached --quiet || git commit -m "chore: daily README refresh"
           git push
