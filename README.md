@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=180&section=header&text=Dilshan%20Daluwaththage&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Engineer%20%C2%B7%20Full%20Stack%20%2B%20UI%2FUX&descAlignY=58&descSize=18" width="100%" alt="Profile banner: Dilshan Daluwaththage, Junior Software Engineer, Full Stack + UI/UX" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&height=40&lines=Building+scalable+enterprise+apps;Java+%2B+Spring+Boot+%2B+React;Turning+Figma+into+pixel-perfect+UI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&height=40&lines=Building+scalable+enterprise+apps;Java+%2B+Spring+Boot+%2B+React;Turning+Figma+into+pixel-perfect+UI" alt="Typing SVG" />
 
 <br />
 
@@ -75,11 +75,11 @@
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dilshan24142&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshan24142&theme=algolia&hide_border=true" alt="streak stats" />
+<img height="165em" src="https://streak-stats.demolab.com/?user=dilshan24142&theme=algolia&hide_border=true" alt="streak stats" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=dilshan24142&theme=algolia&no-frame=true&column=7&margin-w=4" />
+<img src="https://github-trophies.vercel.app/?username=dilshan24142&theme=algolia&no-frame=true&column=7&margin-w=4" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshan24142&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilshan24142&theme=algolia" width="95%" alt="contribution summary" />
 
 </div>
 
@@ -94,20 +94,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dilshan24142/dilshan24142/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:56CCF2&height=3&width=100%" width="100%" />
-
-## ⏱️ Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Java         12 hrs 30 mins  ████████████▓░░░░░░░░░░   52.3%
-JavaScript   5 hrs 45 mins   █████▒░░░░░░░░░░░░░░░░░   23.8%
-HTML/CSS     3 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░   13.9%
-Spring Boot  2 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░    9.4%
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░    0.6%
-```
-<!--END_SECTION:waka-->
 
 <div align="center">
 

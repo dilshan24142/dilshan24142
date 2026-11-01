@@ -1,15 +1,22 @@
 name: WakaTime Stats
 
+# Runs only when started by hand until WakaTime is set up.
+# To enable daily stats:
+#   1. Add repo secrets WAKATIME_API_KEY (wakatime.com/settings/api-key) and GH_TOKEN (a token with repo scope).
+#   2. Add this block to README.md where the stats should appear:
+#        <!--START_SECTION:waka-->
+#        <!--END_SECTION:waka-->
+#   3. Uncomment the schedule below.
 on:
-  schedule:
-    - cron: '0 0 * * *'
+  # schedule:
+  #   - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v5
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}

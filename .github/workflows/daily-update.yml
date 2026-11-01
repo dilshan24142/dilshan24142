@@ -12,7 +12,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Update last-refreshed date
         run: |
@@ -25,4 +25,5 @@ jobs:
           git config user.email "dilshans626@gmail.com"
           git add README.md
           git diff --cached --quiet || git commit -m "chore: daily README refresh"
+          git pull --rebase --quiet origin main
           git push
